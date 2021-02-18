@@ -1,4 +1,4 @@
-# ClassicGraphAlgorithms
+# GraphAlgorithms
 
-I implement some graph algorithms using Julia.
-The test cases are in cases.xlsx
+I implemented some graph algorithms in Julia.
+The test cases are in **cases.xlsx**
